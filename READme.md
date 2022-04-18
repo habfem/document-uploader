@@ -1,4 +1,4 @@
-## Document uploader; using Nodejs, Expressjs (for rest API) and MongoDB as database
+## Document uploader; using Nodejs, Expressjs (for rest API) and MongoDB
 
 Install dependencies
 
